@@ -6,7 +6,7 @@ The app performs all basic arithmetic operations and includes essential function
 
 ## 🚀 Live Demo
 
-You can view the live demo of this application here: **  **
+You can view the live demo of this application here: **https://akhilagilgal.github.io/web_calculator/**
 
 ## ✨ Features
 
